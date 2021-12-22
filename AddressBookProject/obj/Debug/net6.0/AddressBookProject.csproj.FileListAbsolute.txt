@@ -12,3 +12,4 @@ D:\downloads\abc\C# day-9 Address Book\AddressBookProject\AddressBookProject\obj
 D:\downloads\abc\C# day-9 Address Book\AddressBookProject\AddressBookProject\obj\Debug\net6.0\ref\AddressBookProject.dll
 D:\downloads\abc\C# day-9 Address Book\AddressBookProject\AddressBookProject\obj\Debug\net6.0\AddressBookProject.pdb
 D:\downloads\abc\C# day-9 Address Book\AddressBookProject\AddressBookProject\obj\Debug\net6.0\AddressBookProject.genruntimeconfig.cache
+D:\downloads\abc\C# day-9 Address Book\AddressBookProject\AddressBookProject\obj\Debug\net6.0\AddressBookProject.csproj.AssemblyReference.cache
